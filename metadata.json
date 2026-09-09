@@ -1,0 +1,7 @@
+{
+  "name": "Media Cache",
+  "description": "Download, manage, and play self-hosted and user-owned media offline with smart caching and storage management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
